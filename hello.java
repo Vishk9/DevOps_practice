@@ -1,1 +1,2 @@
-pulic class void mai(statis)
+pulic class void mai(statis
+		sorry is)
